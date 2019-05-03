@@ -1,0 +1,10 @@
+E:\12-VS_learn\remote\remote_client\bin\Debug\remote_client.exe.config
+E:\12-VS_learn\remote\remote_client\bin\Debug\remote_client.exe
+E:\12-VS_learn\remote\remote_client\bin\Debug\remote_client.pdb
+E:\12-VS_learn\remote\remote_client\bin\Debug\common.dll
+E:\12-VS_learn\remote\remote_client\bin\Debug\common.pdb
+E:\12-VS_learn\remote\remote_client\obj\Debug\remote_client.csproj.CoreCompileInputs.cache
+E:\12-VS_learn\remote\remote_client\obj\Debug\remote_client.csproj.CopyComplete
+E:\12-VS_learn\remote\remote_client\obj\Debug\remote_client.exe
+E:\12-VS_learn\remote\remote_client\obj\Debug\remote_client.pdb
+E:\12-VS_learn\remote\remote_client\obj\Debug\remote_client.csprojAssemblyReference.cache
